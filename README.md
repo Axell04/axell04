@@ -48,3 +48,16 @@ Sempre aprendendo, experimentando e transformando curiosidade em conhecimento.
 *「 O próximo nível começa com a próxima linha. 」*
 
 </div>
+
+## ✉️ Contatos
+
+<div align="center">
+
+<a href="https://canary.discord.com/users/1441917465750667469">
+  <img src="https://img.shields.io/badge/Discord-Axell-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Axell" />
+</a>
+<a href="https://github.com/Axell04">
+  <img src="https://img.shields.io/badge/GitHub-Follow-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Follow" />
+</a>
+
+</div>

@@ -34,6 +34,21 @@ Sempre aprendendo, experimentando e transformando curiosidade em conhecimento.
 
 ## 🌌
 
+## ✉️ Contatos
+
+<div align="center">
+
+<a href="https://canary.discord.com/users/1441917465750667469">
+  <img src="https://img.shields.io/badge/Discord-Axell-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Axell" />
+</a>
+<a href="https://github.com/Axell04">
+  <img src="https://img.shields.io/badge/GitHub-Follow-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Follow" />
+</a>
+
+</div>
+
+## 🌌
+
 <div align="center">
 
 *One line at a time, beyond the stars.*
@@ -46,18 +61,5 @@ Sempre aprendendo, experimentando e transformando curiosidade em conhecimento.
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=8B5CF6" width="70%" />
 
 *「 O próximo nível começa com a próxima linha. 」*
-
-</div>
-
-## ✉️ Contatos
-
-<div align="center">
-
-<a href="https://canary.discord.com/users/1441917465750667469">
-  <img src="https://img.shields.io/badge/Discord-Axell-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Axell" />
-</a>
-<a href="https://github.com/Axell04">
-  <img src="https://img.shields.io/badge/GitHub-Follow-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Follow" />
-</a>
 
 </div>

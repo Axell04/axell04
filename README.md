@@ -1,6 +1,6 @@
  <div align="center">
 
-# 𖤐 Axell04
+# 𖤐 Axell
 
 *Explorando o universo digital, uma linha de código por vez.*
 

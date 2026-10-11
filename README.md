@@ -18,8 +18,6 @@ Sempre aprendendo, experimentando e transformando curiosidade em conhecimento.
 
 ## ⌘ Tecnologias
 
-## ⌘ Tecnologias
-
 <div align="left">
   <img src="https://skillicons.dev/icons?i=python,robloxstudio&theme=dark" alt="Python e Roblox Studio" />
 </div>

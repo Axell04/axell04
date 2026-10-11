@@ -18,12 +18,11 @@ Sempre aprendendo, experimentando e transformando curiosidade em conhecimento.
 
 ## ⌘ Tecnologias
 
+## ⌘ Tecnologias
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=python,robloxstudio&theme=dark" alt="Python e Roblox Studio" />
 </div>
-
-- **Python** · Linguagem de programação.
-- **Luau** · Scripting no Roblox Studio.
 
 ## 📊 Estatísticas do GitHub
 
